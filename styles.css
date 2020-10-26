@@ -1,0 +1,22 @@
+body {
+}
+
+.navbar {
+  padding 1rem;
+}
+
+.btn-primary:hover {
+  background-color: pink;
+  color: white;
+}
+
+.hero-background-img {
+  background-image: url("hero_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.col-lg-4 {
+  background-color: #ebcdcf;
+}
